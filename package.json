@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
+    "i": "pnpm install",
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
