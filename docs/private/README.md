@@ -1,10 +1,10 @@
 ---
 home: true
 heroImage: /images/hero.png
-heroText: duke-文档
+heroText: duke-文档-加密
 actions:
   - text: Quick
-    link: /private/
+    link: /Guide/
     type: primary
   - text: Intro
     link: /guide/
