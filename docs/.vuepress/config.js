@@ -7,7 +7,21 @@ export default defineUserConfig({
     description: '日常笔记',
     base:'/',
     plugins: [
+        [
+            (pluginOptions, context) => ({
+                //文档加密
+                name: "vuepress-plugin-passwd",
+                // ... the rest of options
+                extendsPage: (page,app) => {
 
+                    console.log('--------------------------')
+                    console.log(page)
+                    console.log('--------------------------')
+                    // console.log(window.location.href)
+
+                }
+            }),
+        ],
     ],
     theme:defaultTheme ({
         navbar: [
