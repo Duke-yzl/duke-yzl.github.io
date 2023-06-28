@@ -1,20 +1,42 @@
 ---
-home: true
-heroImage: /images/hero.png
-heroText: duke-文档
-actions:
-  - text: Quick
-    link: /private/
-    type: primary
-  - text: Intro
-    link: /guide/
-    type: secondary
-features:
-- title: Note
-  details: Markdown-centered notes that record every moment succinctly and efficiently
-- title: Blog
-  details: Clean and tidy blog, easy to archive files
-- title: Document
-  details: Online personal documentation, make the desired documentation
-footer: MIT Licensed | Copyright © 2016-present Passwordgloo
+sidebar: false
 ---
+
+<h1 align="center">于兆路</h1>
+
+<h4 align="center">性别：男 ｜ 年龄：25岁 ｜☎️：1895****6745 ｜ ✉️ ：1057505847@qq.com</h4>
+
+<h4 align="center">4年工作经验 | 求职意向：Java | 期望薪资：12-18K | 期望城市：济南</h4>
+
+### 个人优势
+
+---
+
+1. 担任研发组长职位，协调开发进度，合理安排组员工作量，及时完成开发任务
+2. 熟练掌握 SSM、SpringBoot+Maven
+3. 多次搭建项目框架经验
+4. 熟悉 spring cloud 分布式开发、SpringMVC nacos mybatis-plus seate等
+5. 前端 HTML5、JS、jQ、VUE、 AJAX 、 lay-ui、easy-ui 处理前后端交互
+6. 有 uniapp 开发项目经验
+7. 熟练使用 docker docker-compose
+8. 熟练使用 nginx nginxWebUI
+
+
+
+### 工作经历
+
+---
+
+｜ **山东润一智能科技有限公司** ｜ 研发主管 ｜&nbsp;&nbsp;2021.06-至今
+
+##### 内容：
+
+1. 与产品经理确定开发任务
+2. 根据开发任务与工期，合理安排人员工作量
+3. 及时完成自身工作任务并根据代码逻辑及时抽取并简化生成工具类
+4. 参与开发项目会议，并提出合理的建议
+
+##### 业绩
+
+1. 独立开发医废智能监管平台，为公司带来了260万的利润，此项目目前还在陆续开发的客户中使用，并支持卫健委平台对接
+2. 带领团队开发一站式服务平台，其中部分客户为北京301军区医院，章丘人民医院、烟台业达医院等
