@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e66af35","path":"/duke.html","title":"","lang":"zh-CN","frontmatter":{"sidebar":false},"headers":[{"level":3,"title":"个人优势","slug":"个人优势","link":"#个人优势","children":[]},{"level":3,"title":"工作经历","slug":"工作经历","link":"#工作经历","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"duke.md"}');export{e as data};
