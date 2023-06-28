@@ -7,21 +7,6 @@ export default defineUserConfig({
     description: '日常笔记',
     base:'/',
     plugins: [
-        [
-            (pluginOptions, context) => ({
-                //文档加密
-                name: "vuepress-plugin-passwd",
-                // ... the rest of options
-                extendsPage: (page,app) => {
-
-                    console.log('--------------------------')
-                    console.log(page)
-                    console.log('--------------------------')
-                    // console.log(window.location.href)
-
-                }
-            }),
-        ],
     ],
     theme:defaultTheme ({
         navbar: [
@@ -31,19 +16,7 @@ export default defineUserConfig({
                 link: '/',
             },
             // NavbarGroup
-            {
-                text: '笔记',
-                children: [
-                    {
-                        text: '日常',
-                        link: '/group/foo.md'
-                    },
-                    {
-                        text: '工作',
-                        link: '/group/bar.md'
-                    },
-                ],
-            },
+
         ],
         // 所有页面会使用相同的侧边栏
         sidebar: 'auto',
