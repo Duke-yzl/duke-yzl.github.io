@@ -1,5 +1,6 @@
 ---
 sidebar: false
+navbar: false
 ---
 
 <h1 align="center">于兆路</h1>
